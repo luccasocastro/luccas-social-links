@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&family=Roboto:wght@300;400;700&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0D1117;
+    color: #AFB5BB;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div{
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+.card {
+    padding: 50px 10px;
+}
+
+.block{
+    height: 700px;
+    width: 600px;
+    background-color: #10141a;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.541);
+    padding-bottom: 20px;
+}
+
+.block-bottom a{
+    color: unset;
+    text-decoration: none;
+}
+
+.img-luccas {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+footer {
+    font-weight: 300;
+    font-size: 8px;
+}
